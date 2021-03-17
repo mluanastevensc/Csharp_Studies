@@ -31,8 +31,6 @@ namespace classes
                 Console.WriteLine($"{i.Make} {i.Model} {i.Year}");
             }
                
-
-
             
         }
     }
